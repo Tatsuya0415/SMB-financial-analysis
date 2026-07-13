@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "company_name": "株式会社サンプル製造",
+    "fiscal_year": "2024年3月期",
+    "industry": "製造業",
+    "founded": "1995年",
+    "employees": 45,
+    "capital": "50,000千円",
+    "headquarters": "愛知県名古屋市",
+    "main_products": "自動車部品（プレス加工品）",
+    "report_date": "2024-06-30",
+    "prepared_by": "中小企業財務診断スキル"
+  },
+
+  "pl": {
+    "_unit": "千円",
+
+    "revenue":              500000,
+    "revenue_prev":         470000,
+
+    "cogs":                 360000,
+    "gross_profit":         140000,
+
+    "sga":                  105000,
+    "operating_profit":      35000,
+    "operating_profit_prev": 28000,
+
+    "interest_expense":       3500,
+    "ordinary_profit":       32000,
+    "net_profit":            21000,
+
+    "depreciation":          12000
+  },
+
+  "bs": {
+    "_unit": "千円",
+
+    "cash":                  65000,
+    "accounts_receivable":   95000,
+    "inventory":             55000,
+    "other_current_assets":  15000,
+    "current_assets":       230000,
+
+    "tangible_fixed_assets": 95000,
+    "intangible_fixed_assets": 5000,
+    "investments":           20000,
+    "fixed_assets":         120000,
+
+    "total_assets":         350000,
+
+    "accounts_payable":      60000,
+    "short_term_debt":       50000,
+    "other_current_liabilities": 30000,
+    "current_liabilities":  140000,
+
+    "long_term_debt":        70000,
+    "other_fixed_liabilities": 5000,
+    "fixed_liabilities":     75000,
+
+    "capital":               50000,
+    "retained_earnings":     84000,
+    "other_equity":           1000,
+    "equity":               135000,
+    "equity_prev":          120000,
+
+    "total_liabilities_equity": 350000
+  },
+
+  "cf": {
+    "_unit": "千円",
+
+    "operating_cf":          48000,
+    "investing_cf":         -18000,
+    "financing_cf":         -22000,
+    "net_change":             8000,
+    "beginning_cash":        57000,
+    "ending_cash":           65000
+  },
+
+  "trend": [
+    {
+      "year": "2022年3月期",
+      "revenue":          430000,
+      "gross_profit":     115000,
+      "operating_profit":  18000,
+      "net_profit":        11000,
+      "total_assets":     310000,
+      "equity":           100000,
+      "operating_margin": 0.042,
+      "roa":              0.026,
+      "equity_ratio":     0.323
+    },
+    {
+      "year": "2023年3月期",
+      "revenue":          470000,
+      "gross_profit":     128000,
+      "operating_profit":  28000,
+      "net_profit":        18000,
+      "total_assets":     330000,
+      "equity":           120000,
+      "operating_margin": 0.060,
+      "roa":              0.033,
+      "equity_ratio":     0.364
+    }
+  ],
+
+  "notes": {
+    "main_customers_top3_share": "上位3社で売上の62%を占める（特定顧客依存リスク）",
+    "key_risk": "自動車メーカーの生産調整による受注変動リスク",
+    "strength": "設備の内製化率高く、品質管理に強み",
+    "opportunity": "EV化に伴うアルミ・樹脂部品への展開余地",
+    "threat": "円安による原材料費高騰（鉄・ステンレス）",
+    "bank": "○○銀行（メインバンク）、△△信用金庫",
+    "audit": "税理士関与（月次巡回）"
+  }
+}
